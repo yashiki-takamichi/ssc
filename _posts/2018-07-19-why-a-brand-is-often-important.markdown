@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Why a brand is often important
+title:  シネマナンペイダイOPEN！！
 date:   2018-07-19 15:01:35 +0300
-image:  03.jpg
-tags:   Style
+image:  12.jpg
+image2: 02.jpg
+tags:   cinema
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 

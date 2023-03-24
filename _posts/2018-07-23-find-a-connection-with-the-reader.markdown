@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Find a connection with the reader
+title:  Why is Chiikawa so cute?
 date:   2018-07-24 15:01:35 +0300
 image:  02.jpg
-tags:   Resources
+image2: 16.jpg
+tags:   Anime
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+ちいかわ、可愛いです。僕はうさぎが好きですが、はちわれも大好きです。ラッコも可愛い。全キャラ可愛いです。サウンド部随一のちいかわフリーク亀山さんに思う存分語っていただきました。
 
 You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
