@@ -6,22 +6,66 @@ image: 01.jpg
 ---
  <strong><font size="+4">Sound Socializing Committee</font></strong>
 ![]({{ site.baseurl }}/images/15.jpg)
-Hello, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
-Work hard! and play hard!
+当サイトでは、新たな分野に挑戦するプロジェクトや、
+難関を乗り越えたチームへのインタビューといった
+自分の糧となる上質なコンテンツを取り扱っていきます。
+
+仕事に役立つコンテンツはもちろん、
+ちょっとひと息つきたいときに最適な
+大真面目でバカバカしい企画も盛りだくさん。
+
+
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+# SSCメンバー紹介
+<strong><font size="+2">島田 紗希(Saki Shimada)</font></strong><br>
+<strong><font size="">Sound Design / Sound Production Assistant</font></strong><br>
+<img src="{{site.baseurl}}/images/SakiShimada.png" alt="サンプル" width="150" height="150"><br>
+<strong>趣味 :食べること、散歩、お茶</strong> <br>
+<strong>好きな食べ物 :明太子、お菓子</strong> <br>
+<strong>好きなゲーム :ゼルダの伝説シリーズ、ペルソナ4</strong> <br>
+<strong>意気込み（一言) :みなさんの楽しい♪やいいな♪を増やせていけたら嬉しいです！</strong> <br>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+<strong><font size="+2">唐澤 将太(Shota Karasawa)</font></strong><br>
+<strong><font size="">Audio / Audio Administrator</font></strong><br>
+<img src="{{site.baseurl}}/images/ShotaKarasawa.png" alt="サンプル" width="150" height="150"><br>
+<strong>趣味 :食べ歩き飲み歩き</strong> <br>
+<strong>好きな食べ物 :ハヤシライス</strong> <br>
+<strong>好きなゲーム :OW2 PSO2 アークザラット 3</strong> <br>
+<strong>意気込み（一言) :みなさんに笑顔を届けたいです！</strong> <br>
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+<strong><font size="+2">中村 早織(Saori Nakamura)</font></strong><br>
+<strong><font size="">Music / Composer</font></strong><br>
+<img src="{{site.baseurl}}/images/SaoriNakamura.png" alt="サンプル" width="150" height="150"><br>
+<strong>趣味 :スノボ、映画やアニメ鑑賞</strong> <br>
+<strong>好きな食べ物 :手巻き寿司、春巻き</strong> <br>
+<strong>好きなゲーム ：グラブル、どこでもいっしょシリーズ</strong> <br>
+<strong>意気込み（一言) :明るく楽しく部内を盛り上げていきます！</strong> <br>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle.
+<strong><font size="+2">竹内 果希(Kaki Takeuchi)</font></strong><br>
+<strong><font size="">Sound Design / Creative Planner</font></strong><br>
+<img src="{{site.baseurl}}/images/KakiTakeuchi.png" alt="サンプル" width="150" height="150"><br>
+<strong>趣味: ネイル、コスプレ</strong> <br>
+<strong>好きな食べ物: 甘いもの、ラーメン</strong> <br>
+<strong>好きなゲーム: ポケモンとドラクエ</strong> <br>
+<strong>意気込み（一言): 目指せ！社内で一番楽しい部署！！</strong> <br>
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+<strong><font size="+2">牧野 由紀(Yuki Makino)</font></strong><br>
+<strong><font size="">Audio / Audio Administrator</font></strong><br>
+<img src="{{site.baseurl}}/images/YukiMakino.png" alt="サンプル" width="150" height="150"><br>
+<strong>趣味: 未定</strong> <br>
+<strong>好きな食べ物: 未定</strong> <br>
+<strong>好きなゲーム: 未定</strong> <br>
+<strong>意気込み（一言): 未定</strong> <br>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+<strong><font size="+2">伊禮 完(Kan Irei)</font></strong><br>
+<strong><font size="">Music / Composer</font></strong><br>
+<img src="{{site.baseurl}}/images/KanIrei.png" alt="サンプル" width="150" height="150"><br>
+<strong>趣味 :お酒を浴びる</strong> <br>
+<strong>好きな食べ物 :たまご</strong> <br>
+<strong>好きなゲーム :ARK モンハンシリーズ モンスターファーム</strong> <br>
+<strong>意気込み（一言) : おもしろ企画をバンバン実現させたいです！</strong> <br>
+
+
+
+  <p class="back-arrow"><i class="ion ion-md-arrow-back"></i> <a href="{{site.baseurl}}/">Back to home</a></p>

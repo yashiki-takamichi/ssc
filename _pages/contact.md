@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: お問合せ
+title: contact
 title2: オンライン目安箱
 permalink: /contact/
 image: 11.jpg

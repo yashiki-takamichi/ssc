@@ -2,7 +2,7 @@
 layout: tag_page
 title: tag
 title2: オンライン目安箱
-permalink: /contact/
+permalink: /tag/
 image: 11.jpg
 ---
 
