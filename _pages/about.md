@@ -15,7 +15,6 @@ image: 01.jpg
 大真面目でバカバカしい企画も盛りだくさん。
 
 
-***
 
 # SSCメンバー紹介
 <strong><font size="+2">島田 紗希(Saki Shimada)</font></strong><br>
@@ -62,10 +61,10 @@ image: 01.jpg
 <strong><font size="">Audio / Audio Administrator</font></strong><br>
 <img src="{{site.baseurl}}/images/YukiMakino.png" alt="" width="100" height="100" style="float:left" hspace="400"/>
 <br>
-&emsp;<strong>趣味: 未定</strong> <br>
-&emsp;<strong>好きな食べ物: 未定</strong> <br>
-&emsp;<strong>好きなゲーム: 未定</strong> <br>
-&emsp;<strong>意気込み（一言): 未定</strong> <br>
+&emsp;<strong>趣味 : インドア派、ねこ</strong> <br>
+&emsp;<strong>好きな食べ物 : カレー、ねこ</strong> <br>
+&emsp;<strong>好きなゲーム : ファークライ4、アサクリシリーズ</strong> <br>
+&emsp;<strong>意気込み（一言) : みなさんと仲良くお話できるようなサウンド部にするぞー！！！</strong> <br>
 <br  style="clear:both">
 
 <strong><font size="+2">伊禮 完(Kan Irei)</font></strong><br>
