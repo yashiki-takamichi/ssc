@@ -11,7 +11,7 @@ sscとはSound socializing committee。部署交流活性化委員会です！
 
 ## Are you crazy? I can't swallow that.
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
+Ohyashikiwhile I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
 
 1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
 2. Fry, we have a crate to deliver.
@@ -19,7 +19,7 @@ Oh, I don't have time for this. I have to go and buy a single piece of fruit wit
 
 ### Why not indeed!
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
+Nffffff
 
 * Shinier than yours, meatbag.
 * This is the worst part. The calm before the battle.
