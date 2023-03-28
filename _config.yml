@@ -1,5 +1,4 @@
-baseurl: "/ssc" # the subpath of your site, e.g. /blog
-url: "https://yashiki-takamichi.github.io/ssc/" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 
 # Build settings
